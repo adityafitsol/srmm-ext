@@ -1,0 +1,10 @@
+google-genai
+pandas
+openpyxl
+pypdf
+google-auth
+requests
+termcolor
+prompt_toolkit
+pytesseract
+pdf2image
